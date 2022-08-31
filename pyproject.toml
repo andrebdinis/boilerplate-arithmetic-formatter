@@ -1,8 +1,8 @@
 [tool.poetry]
 name = "fcc-arithmetic-formatter"
 version = "0.1.0"
-description = ""
-authors = ["Your Name <you@example.com>"]
+description = "freeCodeCamp's Python Project: Arithmetic Formatter"
+authors = ["André Barreira Dinis <andrebdinis@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
